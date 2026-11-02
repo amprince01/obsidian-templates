@@ -29,6 +29,8 @@
     "date": "text",
     "birthday": "date",
     "keywords": "multitext",
-    "participants": "multitext"
+    "participants": "multitext",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox"
   }
 }
